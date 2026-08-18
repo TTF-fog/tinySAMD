@@ -52,3 +52,5 @@ it's a devboard fuck around and find out
 > sorry they suck altium is kinda ugly :(
 ![](images/image_1.png)
 ![](images/image_2.png)
+<img width="1596" height="933" alt="pasted file(4)" src="https://github.com/user-attachments/assets/166fa691-bee4-4e6e-842f-3641b357e12c" />
+
