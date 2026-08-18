@@ -1,0 +1,20 @@
+Line #,Name,Description,Designator,Revision ID,Revision State,Revision Status,Quantity,,Manufacturer 1,Manufacturer Part Number 1,Manufacturer Lifecycle 1,Supplier 1,Supplier Part Number 1,Supplier Unit Price 1,Supplier Subtotal 1
+,,,,,,,,,,,,,,,
+,BMA530,,,,Not managed,,1,,Bosch Tools,BMA530,Volume Production,DigiKey,828-BMA530DKR-ND,1.48,1.48
+,SGM2040-3.3YUDH4G_TR_C5152920,,,,Not managed,,1,,SG Micro,SGM2040-3.3YUDH4G/TR,Volume Production,LCSC,C5152920,0.32,0.32
+,USB_C_Receptacle_USB2.0_14P,USB 2.0-only 14P Type-C Receptacle connector,*1,,Not managed,,1,,Amphenol,12401832E402A,Volume Production,Arrow Electronics,12401832E402A,0.9131,0.9131
+,SK6805-EC15,,*2,,Not managed,,1,,OPSCO,,Volume Production,LCSC,C2890035,0.095,0.096
+,Conn_01x06,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)","*3, *4",,Not managed,,2,,,,,,,,
+,CL03A224MQ3N1ND,Cap Ceramic 220nF 6.3V X5R ±20% Pad SMD 0201 +85°C T/R,C1,CMP-13271-003809-1,New From Design,Up to date,1,,Samsung,CL03A224MQ3N1ND,Deprecated,LCSC,C307387,0.0048,0.048
+,GCM033M8EA105ME08J,"Chip Multilayer Ceramic Capacitors for Automotive, 1.0µF ±20%, +15.0/-50.0%, 2.5Vdc, 0201 (0603M)",C2,CMP-06035-063262-1,New From Design,Up to date,1,,Murata,GCM033M8EA105ME08J,Volume Production,LCSC,C203200,0.007,0.07
+,GRM155R60J106ME18D,GRM155R60J106ME18D ,"C3, C7",CMP-00260-135863762-1,New From Design,Up to date,2,,Murata,GRM155R60J106ME18D,Volume Production,LCSC,C203141,0.003,0.04
+,CC0201KRX5R8BB104,CAP CER 0.1UF 25V X5R 0201,"C4, C5, C6, C9",CMP-03422-001280-2,New From Design,Up to date,4,,Yageo Group,CC0201KRX5R8BB104,Volume Production,Mouser,603-CC0201KRX58BB104,0.034,0.34
+,CC0201MRX5R5BB105,CAP CER 1UF 6.3V X5R 0201,C8,CMP-03422-000660-2,New From Design,Up to date,1,,Yageo Group,CC0201MRX5R5BB105,Volume Production,DigiKey,311-1613-1-ND,0.1,0.1
+,ESD441DPLR,"ESD441DPLR 1-pF, 5.5-V, 30-KV ESD protection device in 0201 package 2-X2SON -40 to 125",D1,CMP-00370-140306675-1,New From Design,Up to date,1,,Texas Instruments,ESD441DPLR,Volume Production,Mouser,595-ESD441DPLR,0.33,0.33
+,ESD321DPYR,HDMI2.0 ESD PROTECTION,"D2, D3",CMP-04989-000001-1,New From Design,Up to date,2,,Texas Instruments,ESD321DPYR,Volume Production,Arrow Electronics,ESD321DPYR,0.4755,0.951
+,LQW15DN100M00D,FIXED IND 10UH 120MA 5.405OHM,L1,CMP-06042-016523-1,New From Design,Up to date,1,,Murata,LQW15DN100M00D,Volume Production,DigiKey,490-18068-6-ND,1.59,1.59
+,CRCW02015K10JNED,,"R2, R3",CMP-2004-00738-1,Released,Up to date,2,,Vishay,CRCW02015K10JNED,Volume Production,Mouser,71-CRCW02015K10JNED,0.1,0.2
+,ATSAMD21E16B-UUT,ATSAMD21E16B-UUT MCU 32-Bit SAM D21E ARM Cortex M0+ RISC 64KB Flash 1.8V/2.5V/3.3V 35-Pin WLCSP T/R,U1,CMP-00252-77761538-1,New From Design,Up to date,1,,Microchip,ATSAMD21E16B-UUT,Volume Production,LCSC,C618364,"$1.8013
+",
+,PCB Manufacturing,JLCPCB,,,,,5,,,,,,,$2.00,$2.20
+,,,,,,,,,,,,,,$7.45,$8.68
